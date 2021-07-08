@@ -2,5 +2,4 @@
 |Software|Lenguajes|
 |--------|---------|
 |Adobe   |HTML     |
-|--------|---------|
-|-Photoshop| |
+| -Photoshop|CSS|
