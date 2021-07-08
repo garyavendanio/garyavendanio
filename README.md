@@ -1,4 +1,4 @@
 ### Hola 👋
-|Adobe      |
-|-----------|
-|- Photoshop|
+|Adobe                |
+|-----------|---------|
+|- Photoshop|- Illustrator|
