@@ -3,8 +3,8 @@ Soy desarrollador web __frontend__, a lo largo de los 5 años de experiencia adq
 
 Como parte de los lenguajes que domino se encuentra; HTML, CSS, JS, librería React, preprocesador SCSS.
 ```
-    - Tailwind
+    - Tailwind.
     - Bootstrap.
-    - Materialize.
+    - Foundation.
 ```
 ![garyavendanio](readme.jpg)
