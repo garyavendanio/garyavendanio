@@ -1,4 +1,6 @@
 ### Hola 👋
 |Software|Lenguajes|
 |--------|---------|
-|Adobe|HTML|
+|Adobe   |HTML     |
+|--------|---------|
+|-Photoshop| |
